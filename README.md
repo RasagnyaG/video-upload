@@ -1,16 +1,22 @@
 # video_upload
 
-A new Flutter project.
+### Features
 
-## Getting Started
+1. Upload videos to local directory (could be changed to a cloud storage if needed)
+2. lists the uploaded videos
+3. Pause/play the videos
+4. Compatible with ios and Android
 
-This project is a starting point for a Flutter application.
+### Setup instructions
 
-A few resources to get you started if this is your first Flutter project:
+Once connected to a device/emulator/simulator, run the following commands
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+```
+flutter pub get
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```
+flutter run
+```
+
+- [APK File](https://drive.google.com/file/d/1a66sX2-5DGngkrmPwUDrsHCXmfSsdEVj/view?usp=sharing)
